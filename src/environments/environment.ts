@@ -4,7 +4,7 @@
 
 export const environment = {
     production: false,
-    apiHost: 'http://localhost',
+    apiHost: 'https://yeahsbuy--yeahsbuy-storefront--7jlhdhlv4lsg.code.run/',
     apiPort: 3000,
     shopApiPath: 'shop-api',
     baseHref: '/',
